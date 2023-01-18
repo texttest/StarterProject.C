@@ -1,0 +1,4 @@
+executable:${TEXTTEST_ROOT}/../cmake-build-debug/hello.exe
+full_name:Hello World
+filename_convention_scheme:standard
+
